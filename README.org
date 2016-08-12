@@ -1,0 +1,3 @@
+Run in docker: docker pull bach/clojure-maven
+Download code: git clone git@github.com:brianmd/clojure-maven
+Usage: docker build -t bach/clojure-maven .
